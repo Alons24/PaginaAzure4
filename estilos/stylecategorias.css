@@ -1,0 +1,212 @@
+*{
+    font-family: Arial;
+    width: 1400px;
+}
+.todo{
+    width: 1400px;
+    margin: auto;
+    overflow: hidden;
+    
+}
+nav{
+    width: 900px;
+    margin: auto;
+    height: 50px;
+    background-color: white;
+    display: block;
+    float: right;   
+    text-align: left;
+    gap: 0.5rem;
+}
+.imagen{
+    margin-left: center;
+    margin-right:auto;
+    display:block;
+    height:200px;
+    width:auto;
+}
+section{
+    margin-top: 4px;
+    float: right;
+    border: 3px solid rgb(236, 173, 72);
+    width: 1160px;
+    height:1120px;
+    display: inline-block;
+    text-align: center;
+}
+.publi{
+    margin:auto; 
+    margin-top: 10px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+header a{
+    text-align: center;
+    background-color: white;
+    color: rgb(236, 173, 72);
+    width: 100px;
+    padding: 16px 0px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+header a:hover{
+    text-align: center;
+    background-color: rgb(236, 173, 72) ;
+    color:white;
+    width: 100px;
+    height: 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+.ofertastit{
+    border: 3px solid rgb(236, 173, 72);
+    background-color: rgb(236, 173, 72);
+    color: white;
+    padding: 2px;
+    text-align: center;
+    margin-bottom: 3px;
+    font-size: 23px;
+    height: 25px;
+    width:auto;
+}
+.tabladiv table:hover{
+    border: 3px solid rgb(236, 173, 72);
+    transition: all 0.2s ease-out;
+}
+.tabladiv{
+    margin-right: auto;
+    width: auto;
+    display:inline-block;
+    text-align: center;
+}
+.nuevastit{
+    border: 3px solid rgb(236, 173, 72);
+    background-color: rgb(236, 173, 72);
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    margin-bottom: 3px;
+    height: 20px;
+    width:auto;
+}
+.productos{
+    border: 3px solid rgb(236, 173, 72);
+    width: auto;
+    height: auto;
+    display: inline;
+    margin: 5px;
+    text-align: center;
+    float: right;
+}
+.boton:hover{
+    background-color: white;
+    color: rgb(236, 173, 72);
+}
+.producto{
+    border: 1px solid rgb(236, 173, 72);
+    margin:5px;
+    display:block;
+    height:270px;
+    width:200px;
+    color:white;
+    background-color: rgb(236, 173, 72);
+}
+.imagenofertas{
+    margin-left: auto;
+    margin-right:auto;
+    display:block;
+    height:180px;
+    width:auto;
+}
+.precio{
+    text-align:center;
+    color: rgb(236, 173, 72);
+}
+.tablaprod{
+    display: block;
+    height: 300px;
+    width:200px;
+    text-align: center;
+}
+.tablaprod2{
+    display:block;
+    text-align: center;
+    align-items: center;
+    height: 300px;
+    width:250px;
+}
+.contenido2{
+    border: 3px solid rgb(236, 173, 72);
+    width: 1232px;
+    height:1400px;
+    display: inline;
+    margin: 5px;
+    text-align: center;
+    float: right;
+}
+table tr a{
+    background-color: white;
+    color: black;
+}
+table tr a:hover{
+    background-color: rgb(236, 173, 72);
+    color: white;
+}
+.menu{
+   
+    float: left;
+    width: 220px;
+    height: 665px;
+    margin-top:3px;
+    margin-left: 2px;
+    display: block;
+    padding: 2px;
+    height: 670px;  } .menu a{ width: 208px;    text-decoration: none; margin-top: 3px; padding: 5px; border: 2px solid rgb(236, 173, 72); background-color: white; color: black; display: block; } .menu a:hover{ transition: all 0.3s ease-out; background-color: rgb(236, 173, 72); color: white;
+   
+}
+
+.search{
+    color: rgb(236, 173, 72); 
+    border: 2px solid rgb(236, 173, 72); 
+    width: 240px; 
+    padding: 2px; 
+    margin-left: 20px;
+}
+.precio{
+    color:red;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    }
+.anuncio{
+     display: block;
+      width:auto;
+      text-align:center;
+      height:auto;
+    padding-right: 20px;
+    margin:center;
+        
+        }
+       
+.tablatit{
+         width: 1390px;
+     height:50px;
+            border: 3px solid rgb(236, 173, 72);
+            overflow: hidden;
+            margin: auto;
+        }
+        .logo{
+            display:inline-block;
+            width:100px;
+            height:auto;
+            margin: 5px;
+            margin-left: 13px;
+        }
+       
+        .botones{
+            margin-right:160px;
+            width: 1000px;
+            text-decoration: none;
+        }
